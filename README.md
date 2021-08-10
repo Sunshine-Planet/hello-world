@@ -7,6 +7,6 @@ Today is my firstday to seriusly use Github for my code life.
 
 Im here to thank my friends.
 
-And say sorry to that guy.
+And say sorry to myself.
 
 The END.
